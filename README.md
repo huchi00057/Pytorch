@@ -12,6 +12,9 @@ pytorch安裝GPU
 
   3.點擊"元素”，並查看第三行：NVIDIA CUDA 11.6.127 driver
   
+  ![image](https://user-images.githubusercontent.com/46515944/181897756-74db5f99-8cf9-4105-9cae-0ea3e89f16c1.png)
+
+  
 二、
   1.到[這裡](https://download.pytorch.org/whl/torch_stable.html)去下載對應的.whl(有兩個要下載!)，python的版本若為3.7.多少，那下面的whl檔，就選cp37
   
