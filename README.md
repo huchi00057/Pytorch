@@ -23,7 +23,8 @@ pytorch安裝GPU
 二、
   1.到[這裡](https://download.pytorch.org/whl/torch_stable.html)去下載對應的.whl(有兩個要下載!)，python的版本若為3.7.多少，那下面的whl檔，就選cp37
   
-  ![Untitled (4)](https://user-images.githubusercontent.com/46515944/177499601-687df0b6-ae9d-4c7a-b727-62e18acb46a2.png)
+  ![Untitled (4)](https://user-images.githubusercontent.com/46515944/177499601-687df0b6-ae9d-4c7a-b727-62e18acb46a2.png)![1 Ctrl+f尋找(打你cuda的版本，我是11 7，就打cu11)](https://user-images.githubusercontent.com/46515944/215694610-4941304c-4154-4fde-a76e-81cad704f3de.
+
   
   2.在到cmd執行一下(要記得切到activate pytorch)
   
